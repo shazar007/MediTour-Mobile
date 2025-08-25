@@ -1,0 +1,6 @@
+{
+  "name": "@screens",
+  "devDependencies": {
+    "@types/react-native-snap-carousel": "^3.8.7"
+  }
+}
